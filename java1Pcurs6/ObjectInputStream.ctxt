@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ObjectInputStream
+comment1.params=inputStream
+comment1.target=ObjectInputStream(InputStream)
+comment2.params=
+comment2.target=int\ readInt()
+numComments=3

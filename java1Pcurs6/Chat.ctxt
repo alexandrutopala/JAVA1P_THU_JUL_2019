@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Chat
+comment1.params=l
+comment1.target=void\ addListener(Listener)
+comment2.params=message
+comment2.target=void\ notifyListeners(java.lang.String)
+numComments=3

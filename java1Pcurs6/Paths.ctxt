@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Paths
+comment1.params=
+comment1.target=Paths()
+comment2.params=os
+comment2.target=Path\ get(Paths.OS)
+numComments=3
